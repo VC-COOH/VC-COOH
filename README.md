@@ -2,12 +2,10 @@
 
 ### 🌱 About Me
 
->  XVC
----
+Melancholy aliens who have yet to be successfully socialised, whose favourite things are watching cartoons and listening to 1980s music, study GIS at an average earth university.
 
 ### 🛠️ Tech Stack
 
-I work with a variety of tools and technologies:
 
 - **Languages**: C++，Python,Rust
 - **Tools**:  VSCode is the BEST!!!
@@ -25,7 +23,7 @@ I work with a variety of tools and technologies:
 
 
 - **Luogu**: [洛谷](https://www.luogu.com.cn/user/508814)
-- **Email**: [email@qq.com](mailto:1985528002@qq.com)
+- **Email**: [1985528002@qq.com](mailto:1985528002@qq.com)
 
 ---
 
