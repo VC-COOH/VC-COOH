@@ -24,8 +24,8 @@ I work with a variety of tools and technologies:
 ### 📢 Let's Connect!
 
 
-- **Luogu**: [Your LinkedIn](https://www.luogu.com.cn/user/508814)
-- **Email**: [youremail@example.com](mailto:1985528002@qq.com)
+- **Luogu**: [洛谷](https://www.luogu.com.cn/user/508814)
+- **Email**: [email@qq.com](mailto:1985528002@qq.com)
 
 ---
 
