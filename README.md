@@ -7,9 +7,10 @@ Melancholy aliens who have yet to be successfully socialised, whose favourite th
 ### 🛠️ Tech Stack
 
 
-- **Languages**: C++，Python,Rust
-- **Tools**:  VSCode is the BEST!!!
+- **Languages**: C++ ，Python
+- **IDE**:  VS Code is the BEST!!!
 - **Engine**: Renpy
+- **Other things that I like**: Markdown
 
 ---
 
