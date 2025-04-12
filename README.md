@@ -1,36 +1,20 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsrfDgIdXX6XUQ/giphy.gif" width="120">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
   
-  <!-- 动态打字机效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=XVC;RKU;VC-COOH" alt="动态标题">
+  <!-- 动态霓虹标题 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cyberway+Riders&size=30&duration=4000&color=FF38E8&center=true&vCenter=true&width=600&lines=%24+echo+%22%C2%A0WELCOME+TO+MY+MATRIX%C2%A0%22;%24+./cyberpunk2077.exe;%24+cat+GIS_skills.txt;%24+nano+1980s_playlist" alt="Terminal Commands">
 
-[![GitHub](https://img.shields.io/badge/Follow%20Me-@VC--COOH-239120?style=flat&logo=github)](https://github.com/VC-COOH)
-[![QQ](https://img.shields.io/badge/QQ%20Mail-1985528002@qq.com-0078D4?style=flat&logo=mail.ru)](mailto:1985528002@qq.com)
+<!-- 3D代码立方体 -->
+<img src="https://cyber.dabamos.de/88x31/88x31.gif" width="100"> 
+
 </div>
 
-## 🎮 技能面板
-
-| 类别        | 技能树                                                                 |
-|-------------|-----------------------------------------------------------------------|
-| **语言**    | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
-| **工具**    | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code) ![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF99F6?logo=renpy) |
-| **平台**    | [![洛谷](https://img.shields.io/badge/-洛谷-2596D1?logo=probot)](https://www.luogu.com.cn/) |
-
-## 📊 GitHub活跃度
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VC-COOH&theme=dark&background=0D1117)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VC-COOH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎵 今日复古电台
-[![Retro FM](https://img.shields.io/badge/正在播放-1980s_金曲-1DB954?style=flat&logo=spotify)](https://www.bilibili.com/audio/am30672611)
-
-## 📜 个性签名
-```ascii
-  _____ _           _   
- / ____| |         | |  
-| |    | |__   __ _| |_ 
-| |    | '_ \ / _` | __|
-| |____| | | | (_| | |_ 
- \_____|_| |_|\__,_|\__|
- 
-「 我是外星人！ 」
+## 🕹️ Skill Matrix 
+```glsl
+// Shader 代码风格展示
+float skills(vec3 pos) {
+  return smoothstep(0.5, 1.0, 
+    sin(pos.x * PYTHON) * 
+    fract(pos.y * CPLUSPLUS) * 
+    length(pos.z * RENPY));
+}
