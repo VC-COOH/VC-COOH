@@ -1,20 +1,52 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  
-  <!-- 动态霓虹标题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cyberway+Riders&size=30&duration=4000&color=FF38E8&center=true&vCenter=true&width=600&lines=%24+echo+%22%C2%A0WELCOME+TO+MY+MATRIX%C2%A0%22;%24+./cyberpunk2077.exe;%24+cat+GIS_skills.txt;%24+nano+1980s_playlist" alt="Terminal Commands">
+  <!-- 自动适配深色/浅色模式的动态标题 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif">
+    <img height="80" alt="火箭" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif">
+  </picture>
 
-<!-- 3D代码立方体 -->
-<img src="https://cyber.dabamos.de/88x31/88x31.gif" width="100"> 
+  <!-- 波浪文字效果 -->
+  <h1>
+    <img src="https://raw.githubusercontent.com/VC-COOH/VC-COOH/main/wave.svg" 
+         width="40px" height="40px"> 
+    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓜𝔂 𝓖𝓪𝓵𝓪𝔁𝔂
+  </h1>
 
+  <!-- 3D旋转卡片 -->
+  <a href="https://github.com/VC-COOH">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=GitHub&animation=spin&fill=black&textfill=6bffd9">
+  </a>
 </div>
 
-## 🕹️ Skill Matrix 
-```glsl
-// Shader 代码风格展示
-float skills(vec3 pos) {
-  return smoothstep(0.5, 1.0, 
-    sin(pos.x * PYTHON) * 
-    fract(pos.y * CPLUSPLUS) * 
-    length(pos.z * RENPY));
-}
+<div align="center">
+  
+  **`🌌 电波系沉重青少年| 🎮 中二晚期 | 🎧 技术宅`**
+
+  [![星球状态](https://raw.githubusercontent.com/VC-COOH/VC-COOH/main/status.svg)](https://github.com/VC-COOH)
+</div>
+
+## 🚀 技术星图
+
+```svg
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <!-- Python轨道 -->
+  <circle cx="25" cy="25" r="15" fill="%233776AB" stroke="%23FFD43B" stroke-width="2">
+    <animate attributeName="r" values="15;18;15" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- C++轨道 -->
+  <circle cx="75" cy="25" r="15" fill="%2300599C" stroke="%23ffffff" stroke-width="2">
+    <animate attributeName="cy" values="25;20;25" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- VS Code轨道 -->
+  <circle cx="125" cy="25" r="15" fill="%23007ACC" stroke="%23ffffff" stroke-width="2">
+    <animate attributeName="fill" values="%23007ACC;%23e535ab;%23007ACC" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ren'Py轨道 -->
+  <circle cx="175" cy="25" r="15" fill="%23FF99F6" stroke="%23ffffff" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate" from="0 175 25" to="360 175 25" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
