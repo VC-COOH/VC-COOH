@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7TKsrfDgIdXX6XUQ/giphy.gif" width="120">
   
   <!-- 动态打字机效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=GIS+Cartoonist;VS+Code+Enthusiast;Retro+Music+Lover;Ren'Py+Developer" alt="动态标题">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=XVC;RKU;VC-COOH" alt="动态标题">
 
 [![GitHub](https://img.shields.io/badge/Follow%20Me-@VC--COOH-239120?style=flat&logo=github)](https://github.com/VC-COOH)
 [![QQ](https://img.shields.io/badge/QQ%20Mail-1985528002@qq.com-0078D4?style=flat&logo=mail.ru)](mailto:1985528002@qq.com)
