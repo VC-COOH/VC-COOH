@@ -1,28 +1,19 @@
-# Hi, I'm VC-COOH
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=GIS+Cartoonist;80's+Music+Vibes;Renpy+Engineer;Markdown+Enthusiast" alt="动态标题" />
+</p>
 
-### 🌱 About Me
-
-Melancholy aliens who have yet to be successfully socialised, whose favourite things are watching cartoons and listening to 1980s music, study GIS at an average earth university.
-
-### 🛠️ Tech Stack
-
-
-- **Languages**: C++ ，Python
-- **IDE**:  VS Code is the BEST!!!
-- **Engine**: Renpy
-- **Other things that I like**: Markdown
-
----
-
-### 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VC-COOH&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical)
-
----
-
-### 📢 Let's Connect!
-
-
+🎮 **About Me**
+```json
+{
+  "IDE": "Visual Studio Code 💙",
+  "Languages": ["Python 🐍", "C++ 🔧"],
+  "Engine": "Ren'Py 🎬",
+  "Hobbies": ["Anime Binging", "Retro Music", "Geospatial Magic"],
+  "Contact": {
+    "Email": "1985528002@qq.com 📧",
+    "Luogu": "[洛谷](https://www.luogu.com.cn/)"
+  }
+}
 - **Luogu**: [洛谷](https://www.luogu.com.cn/user/508814)
 - **Email**: [1985528002@qq.com](mailto:1985528002@qq.com)
 
